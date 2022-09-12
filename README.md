@@ -4,6 +4,6 @@
 - 📫 How to reach me:
       - hassanax@my.yorku.ca
       - Masaranihassan@gmail.com
-      - LinkedIn: https://www.linkedin.com/in/hmasarani/
+      - https://www.linkedin.com/in/hmasarani/
 
 
