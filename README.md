@@ -26,7 +26,6 @@
 
 ## 🕹️ Connect with me
 
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
 [<img align="left" alt="hassanmasarani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="AlfredDagenais | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="AlfredDagenais | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -50,7 +49,6 @@ Thanks! :heart:
 
 <img src="https://i.giphy.com/media/W0crByKlXhLlC/200.webp" alt="Programmation" width="200" /><img src="https://media3.giphy.com/media/RgAl2ESJFnIQ0/giphy.gif" alt="Spock" width="200" />
 
-[website]: 
 [twitter]: https://twitter.com/masaraniii
 [linkedin]: https://linkedin.com/in/hmasarani
 [websitekm]: https://KilukruMedia.com
