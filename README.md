@@ -4,9 +4,8 @@
 
 ### Experience includes (but is not limited to):
 
-- 👨🏻‍💻 Software Developer at Brock Solutions
+- 👨🏻‍💻 Software Developer
 - 💼 AWS Cloud Solutions Architect - Associate
-- 🌱 I’m currently learning machine learning models
 - 💡 I love innovation and new technologies
 
 ### Professional interests include (but are not limited to):
