@@ -2,8 +2,6 @@
 
 I'm a Full Stack & React Native Developer, an AWS Certified Cloud Solutions Architect (Associate), and a tech entrepreneur. I am passionate about building innovative, user-centric products from the ground up. 
 
-Currently, I'm pursuing my Master's in Electrical and Computer Engineering at the University of Waterloo while working full-time. In my entrepreneurial time, I run **Fullbricks**, where I develop and market high-tech B2C mobile applications. 
-
 When I'm not architecting software or strategizing app growth, you can usually find me playing soccer, hitting the gym, or enjoying a great cup of coffee around the GTA.
 
 ### 💼 What I Do
@@ -47,7 +45,6 @@ When I'm not architecting software or strategizing app growth, you can usually f
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
